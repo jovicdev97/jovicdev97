@@ -1,7 +1,7 @@
 <h1>👋</h1>
 
 <div style="display: flex; justify-content: center;">
-<h3 align="center">lifelong learning web developer with a focus on modern frontend web technologies, and I also do some data analytics stuff</h3>
+
 
 - **Languages**: JavaScript, TypeScript, Python
 - **Frontend**: Nuxt.js, Vue3, Tailwind, React, Next.js
