@@ -1,19 +1,12 @@
 <h1>👋</h1>
 
 <div style="display: flex; justify-content: center;">
-
-
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: Nuxt.js, Vue3, Tailwind, React, Next.js
-- **Backend**: Node.js, Express, Spring Boot
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> </a>
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="70" height="70"/> </a>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 [![graph](https://github-readme-activity-graph.vercel.app/graph?username=jovicdev97&theme=react-dark&days=70&height=400&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---------------------------------------------------------------
 - ❤️ working on **websites, webapps and webservices**
