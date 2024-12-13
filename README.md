@@ -11,7 +11,7 @@
 ---------------------------------------------------------------
 - ❤️ working on **websites, webapps and webservices**
 - ⚡ Mainly doing stuff in JavaScript/TypeScript, Node.js, Nuxt3, Vue.js & Tailwind
-- 🌱 currently learning **Spring Boot, Java, Data Analytics**
+- 🌱 currently learning **Spring Boot, Java**
 - 📫 Msg me at **schestk@gmail.com**
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
