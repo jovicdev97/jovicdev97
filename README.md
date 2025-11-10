@@ -3,9 +3,3 @@
 ---------------------------------------------------------------
 - working on **websites, webapps and webservices**
 - msg me at **schestk@gmail.com**
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovicdev97&theme=radical" alt="jovicdev97" />
-</p>
